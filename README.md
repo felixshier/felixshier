@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+GitHub told me this was a special repo so here you go
+
 <!--
 **felixshier/felixshier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
