@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-If you have any comments or questions on anything you find here, feel free to reach out to me on LinkedIn [here!](https://linkedin.com/in/felixshier)
+If you have any comments or questions on anything you find here, feel free to reach out to me on [LinkedIn!](https://linkedin.com/in/felixshier)
 
 <!--
 **felixshier/felixshier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
